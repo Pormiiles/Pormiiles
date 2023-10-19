@@ -1,16 +1,16 @@
-### Hi there 👋
+### Oi, me chamo André! :)
 
-<!--
-**Pormiiles/Pormiiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 Buscando por uma experiência profissional de estágio :D
+- 💻 Cursando Análise e Desenvolvimento de Sistemas (IFBA) 
+- 🌱 Atualmente estou aprendendo Java (POO + JPA + Hibernate + Spring Boot) e Banco de Dados com SQL
+- 😄 Pronomes: Ele/dele
 
-Here are some ideas to get you started:
+## 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### (en-US) Hi, I'm André! :)
+
+- Brazillian (🇧🇷)
+- 🔍 Searching for an internship business experience :D
+- 💻 Studying Systems Analysis and Development
+- 🌱 I'm currently learning Java (OOP + JPA + Hibernate + Spring Boot) and Databases using SQL
+- 😄 Pronouns: He/him
