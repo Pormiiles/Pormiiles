@@ -19,7 +19,7 @@
 
 ##
 
-### Contato
+### Meus contatos / My contacts
 
 <div> 
   <a href="https://www.instagram.com/andrewls__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,7 +30,7 @@
 
 ##
 
-### Tecnologias de conhecimento...
+### Tecnologias de conhecimento / Technologies and Tools
 
 <div>
   <img align="center" alt="Andre-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">  
