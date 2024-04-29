@@ -2,7 +2,7 @@
 
 - 🔍 Buscando por uma experiência profissional de estágio :D
 - 💻 Cursando Análise e Desenvolvimento de Sistemas (IFBA) 
-- 🌱 Atualmente estou aprendendo desenvolvimento WEB com HTML, CSS e JavaScript + Design utilizando Figma
+- 🌱 Atualmente estou aprendendo desenvolvimento WEB com HTML, CSS e JavaScript + desenvolvimento de APIs REST
 - 🚀 Pretendo aprender TypeScript e frameworks para front-end (React ou Angular)
 - 💡 Estou aberto para colaborar em novos projetos. Todos os meus contatos estão logo abaixo :)
 
@@ -13,7 +13,7 @@
 - Brazillian (🇧🇷)
 - 🔍 Searching for an internship business experience :D
 - 💻 Studying Systems Analysis and Development (IFBA)
-- 🌱 I'm currently learning WEB development with HTML, CSS and JavaScript + Design using Figma
+- 🌱 I'm currently learning WEB development with HTML, CSS and JavaScript + REST APIs development
 - 🚀 I also intend to learn TypeScript and front-end frameworks (React or Angular)
 - 💡 I'm open to collaborate in new projects. All of my contacts are right below :)
 
