@@ -1,25 +1,25 @@
 ### Oi, me chamo André! :)
 
-- 🔍 Buscando por uma experiência profissional de estágio :D
+- 🏢 Buscando por uma experiência profissional de estágio :D
 - 💻 Cursando Análise e Desenvolvimento de Sistemas (IFBA) 
 - 🌱 Atualmente estou aprendendo desenvolvimento WEB (APIs REST), React e TypeScript
 - 🚀 Pretendo aprender Docker, Systems Design e Cloud Computing 
 - 💡 Estou aberto para colaborar em novos projetos. Todos os meus contatos estão logo abaixo :)
 
-📚 Tema de Pesquisa do TCC: "Análise de UX/UI em Jogos Indie: O Impacto da Ausência de recursos de Acessibilidade na Experiência do Jogador"
+📚🔍 <b>Tema de Pesquisa do TCC:</b> "Análise de UX/UI em Jogos Indie: O Impacto da Ausência de Recursos de Acessibilidade na Experiência do Jogador"
 
 ## 
 
 ### (en-US) Hi, I'm André! :)
 
 - Brazillian (🇧🇷)
-- 🔍 Searching for an internship business experience :D
+- 🏢 Searching for an internship business experience :D
 - 💻 Studying Systems Analysis and Development (IFBA)
 - 🌱 I'm currently learning WEB development (REST APIs), React and TypeScript
 - 🚀 I also intend to learn Docker, Systems Design and Cloud Computing
 - 💡 I'm open to collaborate in new projects. All of my contacts are right below :)
 
-📚 Academic Research Topic: "UI/UX Analysis in Indie Games: The Impact of the Lack of Accessibility Features on the Player Experience"
+📚🔍 <b>Academic Research Topic:</b> "UX/UI Analysis in Indie Games: The Impact of the Lack of Accessibility Features on the Player Experience"
 
 ##
 
