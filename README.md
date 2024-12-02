@@ -6,6 +6,8 @@
 - 🚀 Pretendo aprender Docker, Systems Design e Cloud Computing 
 - 💡 Estou aberto para colaborar em novos projetos. Todos os meus contatos estão logo abaixo :)
 
+📚 Tema de Pesquisa do TCC: "Análise de UX/UI em Jogos Indie: O Impacto da Ausência de recursos de Acessibilidade na Experiência do Jogador"
+
 ## 
 
 ### (en-US) Hi, I'm André! :)
@@ -16,6 +18,8 @@
 - 🌱 I'm currently learning WEB development (REST APIs), React and TypeScript
 - 🚀 I also intend to learn Docker, Systems Design and Cloud Computing
 - 💡 I'm open to collaborate in new projects. All of my contacts are right below :)
+
+📚 Academic Research Topic: "UI/UX Analysis in Indie Games: The Impact of the Lack of Accessibility Features on the Player Experience"
 
 ##
 
